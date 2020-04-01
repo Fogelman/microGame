@@ -9,6 +9,6 @@ EditorBuildSettings:
     path: Assets/Scenes/MicroJogos.unity
     guid: a181534b64bc4480b9c21970ab802f34
   - enabled: 1
-    path: Assets/Scenes/PegaBola.unity
+    path: Assets/Scenes/StrawTurtle.unity
     guid: 7c0c255e037974f32aa67954b9ec2ba1
   m_configObjects: {}
